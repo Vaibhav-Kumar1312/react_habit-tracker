@@ -15,7 +15,7 @@ This is a habit tracker application that allows you to track multiple habits on 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/apni-coding/HabitTracker.git
+   git clone https://github.com/Vaibhav-Kumar1312/react_habit-tracker.git
    ```
 
 2. Navigate to the project directory:
