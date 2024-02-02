@@ -1,0 +1,78 @@
+.habitsContainer h1 {
+  text-align: center;
+  padding: 32px 0;
+  font-size: 44px;
+  font-style: italic;
+}
+.habitsContainer .inputContainer {
+  text-align: center;
+  padding-bottom: 32px;
+}
+
+.habitsContainer .inputContainer input {
+  padding: 8px 4px;
+  font-size: 22px;
+  outline: none;
+  border: 1px solid lightgray;
+  border-radius: 8px;
+  width: 30%;
+}
+
+.habitsContainer .inputContainer button {
+  padding: 8px 4px;
+  font-size: 22px;
+  outline: none;
+  border: 1px solid lightgray;
+  border-radius: 8px;
+  margin-left: 8px;
+  background-color: #3c0753;
+  color: whitesmoke;
+}
+
+.habitsContainer .btnCreate {
+  display: block;
+  margin-bottom: 32px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.habitsContainer ul {
+  /* width: 100%; */
+  list-style: none;
+}
+
+.listContainer {
+  width: 80vw;
+  height: 55vh;
+  margin: 0 auto;
+  padding: 2px 6px;
+  list-style: none;
+  /* background-color: #a2678a; */
+  border-radius: 10px;
+}
+
+.listContainer a {
+  text-decoration: none;
+  color: #3c0753;
+}
+
+.listContainer li {
+  /* list-style: none; */
+  padding: 10px 12px;
+  margin: 14px 8px;
+  border-radius: 10px;
+  background-color: cornsilk;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0px 0px 14px 0px rgba(0, 0, 0, 1);
+}
+
+.listContainer li p {
+  font-size: 24px;
+}
+
+.listContainer li span {
+  font-size: 14px;
+  opacity: 0.7;
+}
